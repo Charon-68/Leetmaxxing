@@ -53,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Charon-68/Leetmaxxing/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
