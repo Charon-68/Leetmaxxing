@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Charon-68/Leetmaxxing/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Charon-68/Leetmaxxing/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Charon-68/Leetmaxxing/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -67,8 +68,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
