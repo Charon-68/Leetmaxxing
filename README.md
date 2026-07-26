@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Charon-68/Leetmaxxing/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Charon-68/Leetmaxxing/tree/master/0036-valid-sudoku) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Charon-68/Leetmaxxing/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
+| [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
