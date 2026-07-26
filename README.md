@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Charon-68/Leetmaxxing/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Charon-68/Leetmaxxing/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Charon-68/Leetmaxxing/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
@@ -91,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Charon-68/Leetmaxxing/tree/master/0036-valid-sudoku) |
+| [0289-game-of-life](https://github.com/Charon-68/Leetmaxxing/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Charon-68/Leetmaxxing/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
