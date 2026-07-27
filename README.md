@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Charon-68/Leetmaxxing/tree/master/0134-gas-station) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Charon-68/Leetmaxxing/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
