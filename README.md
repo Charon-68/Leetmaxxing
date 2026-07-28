@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Charon-68/Leetmaxxing/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0045-jump-game-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Charon-68/Leetmaxxing/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Charon-68/Leetmaxxing/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0219-contains-duplicate-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Charon-68/Leetmaxxing/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Charon-68/Leetmaxxing/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Charon-68/Leetmaxxing/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0219-contains-duplicate-ii) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Charon-68/Leetmaxxing/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
