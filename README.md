@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Charon-68/Leetmaxxing/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/Charon-68/Leetmaxxing/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Charon-68/Leetmaxxing/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Charon-68/Leetmaxxing/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Charon-68/Leetmaxxing/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/Charon-68/Leetmaxxing/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
