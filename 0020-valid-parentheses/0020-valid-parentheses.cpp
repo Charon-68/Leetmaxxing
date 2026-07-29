@@ -7,6 +7,6 @@ public:
             else if(!st.empty() && ((st.top() == '(' && s[i] == ')') || (st.top() == '{' && s[i] == '}') || (st.top() == '[' && s[i] == ']'))) st.pop();
             else return false;
         }
-        return st.empty() ? true : false;
+        return st.empty();
     }
 };
