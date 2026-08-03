@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Charon-68/Leetmaxxing/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/Charon-68/Leetmaxxing/tree/master/0056-merge-intervals) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Charon-68/Leetmaxxing/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Charon-68/Leetmaxxing/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charon-68/Leetmaxxing/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Charon-68/Leetmaxxing/tree/master/0202-happy-number) |
 ## Stack
 |  |
