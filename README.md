@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Charon-68/Leetmaxxing/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Charon-68/Leetmaxxing/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Charon-68/Leetmaxxing/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Charon-68/Leetmaxxing/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
