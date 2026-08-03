@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Charon-68/Leetmaxxing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Design
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Charon-68/Leetmaxxing/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
