@@ -6,11 +6,10 @@ public:
         int temp;
         for(int i=2 ; i<=n ; i++){
             temp = i;
-            while(i%2 == 0 && i%5 == 0){
+            while(i%10==0){
                 two++;
                 five++;
-                i /= 2;
-                i /= 5;
+                i /= 10;
             }
             while(i%2 == 0){
                 two++;
