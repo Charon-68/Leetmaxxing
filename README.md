@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Charon-68/Leetmaxxing/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Charon-68/Leetmaxxing/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Charon-68/Leetmaxxing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Charon-68/Leetmaxxing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0994-rotting-oranges](https://github.com/Charon-68/Leetmaxxing/tree/master/0994-rotting-oranges) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Charon-68/Leetmaxxing/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Monotonic Queue
 |  |
 | ------- |
