@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Charon-68/Leetmaxxing/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Charon-68/Leetmaxxing/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/Charon-68/Leetmaxxing/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Charon-68/Leetmaxxing/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/1071-greatest-common-divisor-of-strings) |
