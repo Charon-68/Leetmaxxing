@@ -6,6 +6,10 @@ public:
         int temp;
         for(int i=2 ; i<=n ; i++){
             temp = i;
+            while(i%8 == 0){
+                two+= 3;
+                i /= 8;
+            }
             while(i%10==0){
                 two++;
                 five++;
