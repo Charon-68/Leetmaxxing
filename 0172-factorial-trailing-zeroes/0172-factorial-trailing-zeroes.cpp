@@ -3,8 +3,9 @@ public:
     int trailingZeroes(int n) {
         int two = 0;
         int five = 0;
+        int temp;
         for(int i=2 ; i<=n ; i++){
-            int temp = i;
+            temp = i;
             while(i%2 == 0){
                 two++;
                 i /= 2;
