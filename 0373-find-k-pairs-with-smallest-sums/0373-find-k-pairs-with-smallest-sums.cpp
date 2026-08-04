@@ -3,7 +3,8 @@ public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         vector<vector<int>> ans;
         priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
-        for(int i = 0; i < nums1.size(); i++) {
+        int n = min((int)nums1.size(), k);
+        for(int i = 0; i < n; i++){
             pq.push({nums1[i] + nums2[0], i, 0});
         }
 
@@ -20,3 +21,4 @@ public:
         return ans;
     }
 };
+
