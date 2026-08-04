@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Charon-68/Leetmaxxing/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Charon-68/Leetmaxxing/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Charon-68/Leetmaxxing/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Charon-68/Leetmaxxing/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Charon-68/Leetmaxxing/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Charon-68/Leetmaxxing/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Charon-68/Leetmaxxing/tree/master/0190-reverse-bits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Charon-68/Leetmaxxing/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
