@@ -1,11 +1,12 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        int ans;
-        for (int i = 1; i <= x/2; i++) {
-            if (i == 46341) break;
+        int ans = 0;
+        for (int i = 1; i*i <= x; i++) {
+            
             if (i*i <= x) ans = i;
             else break;
+            if (i == 46340) break;
         }
         return ans;
     }
