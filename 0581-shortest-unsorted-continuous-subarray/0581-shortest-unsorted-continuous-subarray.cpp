@@ -5,11 +5,10 @@ public:
         int start = 0;
         int least = 1e6 + 1;
         int end = -1;
-        int greatest = INT_MIN;
+        int greatest = -1e6;
         for(int i=0 ; i<n ; i++){
             if(nums[n-1-i] > least) start = n-1-i;
             least = min(least, nums[n-1-i]);
-
             if(nums[i] < greatest) end = i;
             greatest = max(greatest, nums[i]);
         }
