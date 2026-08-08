@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Charon-68/Leetmaxxing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Charon-68/Leetmaxxing/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Charon-68/Leetmaxxing/tree/master/0994-rotting-oranges) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Charon-68/Leetmaxxing/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Charon-68/Leetmaxxing/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/Charon-68/Leetmaxxing/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Charon-68/Leetmaxxing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Charon-68/Leetmaxxing/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Counting Sort
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Charon-68/Leetmaxxing/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Charon-68/Leetmaxxing/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Charon-68/Leetmaxxing/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Charon-68/Leetmaxxing/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 ## Binary Search
 |  |
 | ------- |
