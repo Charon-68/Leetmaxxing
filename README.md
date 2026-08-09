@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Charon-68/Leetmaxxing/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Charon-68/Leetmaxxing/tree/master/0994-rotting-oranges) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Charon-68/Leetmaxxing/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Charon-68/Leetmaxxing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Charon-68/Leetmaxxing/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charon-68/Leetmaxxing/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Charon-68/Leetmaxxing/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Charon-68/Leetmaxxing/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Charon-68/Leetmaxxing/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Charon-68/Leetmaxxing/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -124,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Charon-68/Leetmaxxing/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/Charon-68/Leetmaxxing/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Charon-68/Leetmaxxing/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
