@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Charon-68/Leetmaxxing/tree/master/0994-rotting-oranges) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/Charon-68/Leetmaxxing/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Charon-68/Leetmaxxing/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charon-68/Leetmaxxing/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Charon-68/Leetmaxxing/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Charon-68/Leetmaxxing/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Charon-68/Leetmaxxing/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Charon-68/Leetmaxxing/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Charon-68/Leetmaxxing/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Charon-68/Leetmaxxing/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Charon-68/Leetmaxxing/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Charon-68/Leetmaxxing/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Matrix
 |  |
 | ------- |
