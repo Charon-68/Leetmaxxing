@@ -4,14 +4,28 @@ public:
         int n = points.size();
         if(n <= 2) return n;
         int ans = 2;
+
         for(int i=0 ; i<n ; i++){
-            for(int j=i+1 ; j<n ; j++){
-                int temp = 0;
-                for(int k=0 ; k<n ; k++){
-                    if((points[i][1] - points[j][1]) * (points[k][0] - points[j][0]) == ((points[k][1] - points[j][1]) * (points[i][0] - points[j][0]))) temp++;
+            map<pair<int,int>,int> m;
+            int temp = 0;
+            for(int j=0 ; j<n ; j++){
+                if(i==j) continue;
+                int dy = points[j][1] - points[i][1];
+                int dx = points[j][0] - points[i][0];
+
+                int g = gcd(dy, dx);
+                dy /= g;
+                dx /= g;
+
+                if (dx < 0 || (dx == 0 && dy < 0)) {
+                    dx = -dx;
+                    dy = -dy;
                 }
-                ans = max(ans, temp);
+
+                m[{dy, dx}]++;
+                temp = max(temp, m[{dy, dx}]);
             }
+            ans = max(ans, temp+1);
         }
         return ans;
     }
