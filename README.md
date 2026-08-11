@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Charon-68/Leetmaxxing/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Charon-68/Leetmaxxing/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/Charon-68/Leetmaxxing/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Charon-68/Leetmaxxing/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Charon-68/Leetmaxxing/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Charon-68/Leetmaxxing/tree/master/0202-happy-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Charon-68/Leetmaxxing/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Charon-68/Leetmaxxing/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Charon-68/Leetmaxxing/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/Charon-68/Leetmaxxing/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Charon-68/Leetmaxxing/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Charon-68/Leetmaxxing/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Charon-68/Leetmaxxing/tree/master/0383-ransom-note) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Charon-68/Leetmaxxing/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/Charon-68/Leetmaxxing/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/Charon-68/Leetmaxxing/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Charon-68/Leetmaxxing/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Charon-68/Leetmaxxing/tree/master/0149-max-points-on-a-line) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Charon-68/Leetmaxxing/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
